@@ -41,7 +41,7 @@ body {
 	vertical-align: middle;
 }
 #hello {
-	width: 18.5%;
+	width: 56%;
 	height: 240%;
 	font-weight: 900;
 	font-size: 300%;
@@ -64,7 +64,7 @@ body {
 	margin-top: 5%;
 }
 #hobbies {
-	width: 24%;
+	width: 74%;
 	line-height: 200%;
 	height: 300%;
 	font-size: 200%;
@@ -92,7 +92,7 @@ ul {
 	text-align: center;
 }
 .boxl {
-	width: 13%;
+	width: 33%;
 	line-height: 300%;
 	height: 600%;
 	margin-top: 10%;
