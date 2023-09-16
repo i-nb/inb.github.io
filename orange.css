@@ -106,6 +106,7 @@ ul {
 	vertical-align: middle;
 	display: flex;
 	justify-content: center;
+	flex-direction: column;
 }
 .pairs {
 	display: flex;
