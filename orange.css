@@ -104,6 +104,8 @@ ul {
 	border-radius: 40px;
 	text-align: center;
 	vertical-align: middle;
+	display: flex;
+	justify-content: center;
 }
 .pairs {
 	display: flex;
