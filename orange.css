@@ -84,15 +84,18 @@ ul {
   	justify-content: center;
   	font-size: 330%;
   	margin-top: 15%;
+	padding-top: 2%;
 }
 .links {
 	font-weight: 400;
 	font-size: 170%;
 	margin-top: 2%;
 	text-align: center;
+	padding-bottom: 2%;
+	
 }
 .boxl {
-	width: 33%;
+	width: 40%;
 	line-height: 200%;
 	height: 500%;
 	margin-top: 10%;
